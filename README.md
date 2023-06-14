@@ -80,6 +80,7 @@ class CurrenciesPage extends StatelessWidget {
 ```
 
 [dart_install_link]: https://dart.dev/get-dart
+[flutter_install_link]: https://dart.dev/get-dart
 [github_actions_link]: https://docs.github.com/en/actions/learn-github-actions
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [license_link]: https://opensource.org/licenses/MIT
