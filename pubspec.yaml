@@ -1,0 +1,17 @@
+name: repository_flutter
+description: A package aimed at providing seamless integration between the repository library and Flutter, creating a communication widget between them.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  repository: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^5.0.0
