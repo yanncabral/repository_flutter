@@ -4,7 +4,7 @@
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 [![License: MIT][license_badge]][license_link]
 
-A package aimed at providing seamless integration between the repository library and Flutter, creating a communication widget between them.
+A package aimed at providing seamless integration between the [Repository][repository_package_link] library and Flutter, creating a communication widget between them.
 
 ## Installation 💻
 
@@ -27,7 +27,7 @@ flutter packages get
 
 ## Usage
 
-Lets take a look at how to use RepositoryBuilder to provide a react to state changes in a Repository.
+Lets take a look at how to use RepositoryBuilder to provide a react to state changes in a [Repository][repository_package_link].
 
 ### currencies_repository.dart
 
@@ -80,6 +80,7 @@ class CurrenciesPage extends StatelessWidget {
 ```
 
 [dart_install_link]: https://dart.dev/get-dart
+[repository_package_link]: https://pub.dev/packages/repository
 [flutter_install_link]: https://dart.dev/get-dart
 [github_actions_link]: https://docs.github.com/en/actions/learn-github-actions
 [license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
